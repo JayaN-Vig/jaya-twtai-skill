@@ -1,0 +1,18 @@
+{
+  "name": "twtai",
+  "owner": {
+    "name": "Tech Writer's Tribe",
+    "email": "twt@example.com"
+  },
+  "metadata": {
+    "description": "Sample marketplace for the TWT AI program — documentation skills, an agent, and a bundled MCP server.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "doc-skills",
+      "source": "./plugins/doc-skills",
+      "description": "Reviewer, Generator & Analyzer skills, a doc-auditor agent, and a doc-tools MCP server."
+    }
+  ]
+}

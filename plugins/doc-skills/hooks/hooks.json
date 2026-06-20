@@ -1,0 +1,15 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo '📝 doc-skills: a file changed — consider running /doc-skills:check-style on it.'"
+          }
+        ]
+      }
+    ]
+  }
+}
