@@ -2,7 +2,7 @@
   "name": "jaya-twtai",
   "owner": {
     "name": "Jayasree",
-    "email": "jaya.nishanth@gmail.com"
+    "email": "jaya.winner@gmail.com"
   },
   "metadata": {
     "description": "Sample marketplace for the TWT AI program — documentation skills, an agent, and a bundled MCP server.",
@@ -12,7 +12,7 @@
     {
       "name": "doc-skills",
       "source": "./plugins/doc-skills",
-      "description": "Reviewer & Generator commands, a doc-coverage skill, a doc-auditor agent, and remote MCP servers."
+      "description": "Reviewer & Generator commands, a doc-coverage skill, a doc-auditor agent, brand conversion, and remote MCP servers."
     }
   ]
 }
