@@ -3,7 +3,7 @@
   "version": "1.2.0",
   "description": "Documentation skills built in the TWT program: a style Reviewer, a release-notes Generator, a doc-coverage Analyzer skill, a doc-auditor agent, and two remote MCP servers (DeepWiki + Claude Code docs).",
   "author": {
-    "name": "Jayasree"
+    "name": "Jayasree Nishanth"
   },
-  "keywords": ["documentation", "technical-writing", "review", "mcp", "jayasree"]
+  "keywords": ["documentation", "technical-writing", "review", "mcp", "jayasree", "rebrand"]
 }
